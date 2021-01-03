@@ -1,0 +1,31 @@
+* {
+	font-family: helvetica;
+	margin: 0;
+	padding: 0;
+}
+body {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+.text-center {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.fz-64 {
+	font-size: 64px;
+}
+
+.color-gray {
+	color: gray;
+}
+
+.color-black {
+	color: black;
+}
+h1 {
+	width: 100vw;
+}
